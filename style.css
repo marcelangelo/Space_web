@@ -18,6 +18,7 @@ header{
     background-color: rgb(255, 0, 128);
     height: 80px;
     width: 100%;
+    min-width: 640px;
     display: flex;
     justify-content: center;
     border-bottom: solid rgb(255, 208, 0) 2px;
